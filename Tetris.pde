@@ -49,7 +49,7 @@ SoundFile click2;
 void settings()
 {
     size(resX, resY, P3D);
-    PJOGL.setIcon("resources/icon.png"); // Window icon for the game
+    PJOGL.setIcon("icon.png"); // Window icon for the game
 }
 
 void setup()
@@ -130,8 +130,8 @@ void setup()
     
     // Not using the textures from this spritesheet anymore
     // Instead we are giving colors to the tiles based on the current background color
-    spritesheet = loadImage("resources/spritesheet.png");
-    vignette = loadImage("resources/vignette.png"); // For darkening the edges of the screen
+    spritesheet = loadImage("spritesheet.png");
+    vignette = loadImage("vignette.png"); // For darkening the edges of the screen
     
     for(int i = 0; i < 7; i++)
     {
@@ -141,9 +141,9 @@ void setup()
     textureMode(REPEAT);
     sphereDetail(15);
     
-    bgm = new SoundFile(this, "resources/bgm.wav");
-    click1 = new SoundFile(this, "resources/click1.wav");
-    click2 = new SoundFile(this, "resources/click2.wav");
+    bgm = new SoundFile(this, "bgm.wav");
+    click1 = new SoundFile(this, "click1.wav");
+    click2 = new SoundFile(this, "click2.wav");
     
     // Some audio mixing so we don't blow anyone's ears up
     bgm.amp(0.1);
