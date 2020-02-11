@@ -4,7 +4,9 @@ This was made using the Processing framework: https://processing.org
 
 Simply download the Processing editor to open the .pde files. 
 
-You can also download the compiled game from here: https://drive.google.com/file/d/1oELTF31e7bA5scU0eOLIQwVCirCwg6OZ/view?usp=sharing
+You can also download the compiled game from here: 
+
+https://drive.google.com/file/d/1oELTF31e7bA5scU0eOLIQwVCirCwg6OZ/view?usp=sharing
 
 ### Blog post:
 
