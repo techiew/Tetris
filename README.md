@@ -8,6 +8,8 @@ You can also download the compiled game from here:
 
 https://drive.google.com/file/d/1oELTF31e7bA5scU0eOLIQwVCirCwg6OZ/view?usp=sharing
 
+Sources for the sounds and music can be found in sources.txt.
+
 ### Blog post:
 
 https://pastacode.tumblr.com/post/190760187226/a-cool-little-tetris-game-i-made-in-the-processing
