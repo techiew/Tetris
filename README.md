@@ -1,6 +1,6 @@
 ## Tetris
 
-This was made using the Processing framework: https://processing.org Simply download the Processing editor to open the .pde files. 
+This was made using the Processing framework: https://processing.org - Simply download the Processing editor to open the .pde files. 
 
 You can also download the compiled game from here: 
 
