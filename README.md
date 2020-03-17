@@ -1,4 +1,5 @@
 ## Tetris
+![Preview for Tetris](https://github.com/techiew/Tetris/blob/master/preview_tetris.gif)
 
 This was made using the Processing framework: https://processing.org - Simply download the Processing editor to open the .pde files. 
 
