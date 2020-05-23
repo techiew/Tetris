@@ -1,7 +1,7 @@
 ## Tetris
 ![Preview for Tetris](https://github.com/techiew/Tetris/blob/master/preview_tetris.gif)
 
-This was made using the Processing framework: https://processing.org - Simply download the Processing editor to open the .pde files. 
+This was made using the Processing framework: https://processing.org - Simply download the Processing editor to open the .pde files. You can see me play a full game in [this video](https://www.youtube.com/watch?v=dOIRB8INP-0).
 
 You can download the compiled game from here: 
 
